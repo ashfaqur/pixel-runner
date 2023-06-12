@@ -1,6 +1,6 @@
 # Pixel Runner
 
-A code along from the nice [pygame tutorial](https://youtu.be/AY9MnQ4x3zk) by code center.
+A code along from the nice [pygame tutorial](https://youtu.be/AY9MnQ4x3zk) by clear code.
 
 Some minor gameplay adjustments are made.
 
